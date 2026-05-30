@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Menu Shop Interface</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="/styles.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Menu Shop Interface</h1>
+      <p>Orders, menu management and USB/Bluetooth serial control</p>
+    </div>
+    <div id="serialStatus" class="status">Serial: checking...</div>
+  </header>
+
+  <main>
+    <section class="panel">
+      <div class="panel-title">
+        <h2>Live Orders</h2>
+      </div>
+      <div id="orders" class="orders"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-title">
+        <h2>Menu Management</h2>
+        <button id="sendMenuBtn">Send full menu to device</button>
+      </div>
+
+      <form id="itemForm" class="item-form">
+        <input type="hidden" id="itemId">
+        <select id="category" required></select>
+        <input id="name" placeholder="Item name" required>
+        <input id="price" placeholder="Price EUR, e.g. 3.90" required>
+        <button type="submit">Save item</button>
+        <button type="button" id="resetFormBtn">Clear</button>
+        <button type="button" id="clearOrdersBtn">Clear All Orders</button>
+      </form>
+
+      <div class="filters">
+        <input id="search" placeholder="Search items...">
+        <select id="categoryFilter">
+          <option value="">All categories</option>
+        </select>
+      </div>
+
+      <div id="menuItems" class="menu-items"></div>
+    </section>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

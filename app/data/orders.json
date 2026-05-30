@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "deviceId": "MENU_DEVICE",
+    "table": "TABLE1",
+    "status": "completed",
+    "lines": [
+      {
+        "itemId": 56,
+        "name": "aaaaa",
+        "quantity": 1,
+        "priceCents": 3400
+      }
+    ],
+    "totalCents": 3400,
+    "createdAt": "2026-05-30T11:18:36.6633933+03:00",
+    "updatedAt": "2026-05-30T11:18:39.2952899+03:00"
+  }
+]

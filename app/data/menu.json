@@ -1,0 +1,359 @@
+[
+  {
+    "id": 2,
+    "category": "Drinks",
+    "name": "American",
+    "priceCents": 200,
+    "available": true
+  },
+  {
+    "id": 3,
+    "category": "Drinks",
+    "name": "Cappuccino",
+    "priceCents": 360,
+    "available": true
+  },
+  {
+    "id": 4,
+    "category": "Drinks",
+    "name": "Latte",
+    "priceCents": 300,
+    "available": true
+  },
+  {
+    "id": 5,
+    "category": "Drinks",
+    "name": "Flat White",
+    "priceCents": 340,
+    "available": true
+  },
+  {
+    "id": 6,
+    "category": "Drinks",
+    "name": "Mocha",
+    "priceCents": 390,
+    "available": true
+  },
+  {
+    "id": 7,
+    "category": "Drinks",
+    "name": "Hot Choco",
+    "priceCents": 390,
+    "available": true
+  },
+  {
+    "id": 8,
+    "category": "Drinks",
+    "name": "Tea",
+    "priceCents": 280,
+    "available": true
+  },
+  {
+    "id": 9,
+    "category": "Drinks",
+    "name": "Green Tea",
+    "priceCents": 320,
+    "available": true
+  },
+  {
+    "id": 10,
+    "category": "Drinks",
+    "name": "Iced Coffee",
+    "priceCents": 340,
+    "available": true
+  },
+  {
+    "id": 11,
+    "category": "Drinks",
+    "name": "Lemonade",
+    "priceCents": 280,
+    "available": true
+  },
+  {
+    "id": 12,
+    "category": "Drinks",
+    "name": "Still Water",
+    "priceCents": 200,
+    "available": true
+  },
+  {
+    "id": 13,
+    "category": "Drinks",
+    "name": "Spark Water",
+    "priceCents": 230,
+    "available": true
+  },
+  {
+    "id": 14,
+    "category": "Drinks",
+    "name": "Orange Juice",
+    "priceCents": 340,
+    "available": true
+  },
+  {
+    "id": 15,
+    "category": "Drinks",
+    "name": "Apple Juice",
+    "priceCents": 340,
+    "available": true
+  },
+  {
+    "id": 16,
+    "category": "Drinks",
+    "name": "Smoothie",
+    "priceCents": 500,
+    "available": true
+  },
+  {
+    "id": 17,
+    "category": "Lunch",
+    "name": "Ham Sandwich",
+    "priceCents": 620,
+    "available": true
+  },
+  {
+    "id": 18,
+    "category": "Lunch",
+    "name": "Cheese Toast",
+    "priceCents": 560,
+    "available": true
+  },
+  {
+    "id": 19,
+    "category": "Lunch",
+    "name": "Tuna Sandwich",
+    "priceCents": 650,
+    "available": true
+  },
+  {
+    "id": 20,
+    "category": "Lunch",
+    "name": "Chicken Wrap",
+    "priceCents": 680,
+    "available": true
+  },
+  {
+    "id": 21,
+    "category": "Lunch",
+    "name": "Veggie Wrap",
+    "priceCents": 620,
+    "available": true
+  },
+  {
+    "id": 22,
+    "category": "Lunch",
+    "name": "Egg Salad Roll",
+    "priceCents": 560,
+    "available": true
+  },
+  {
+    "id": 23,
+    "category": "Lunch",
+    "name": "Caesar Salad",
+    "priceCents": 850,
+    "available": true
+  },
+  {
+    "id": 24,
+    "category": "Lunch",
+    "name": "Greek Salad",
+    "priceCents": 820,
+    "available": true
+  },
+  {
+    "id": 25,
+    "category": "Lunch",
+    "name": "Pasta Salad",
+    "priceCents": 850,
+    "available": true
+  },
+  {
+    "id": 26,
+    "category": "Lunch",
+    "name": "Chicken Salad",
+    "priceCents": 900,
+    "available": true
+  },
+  {
+    "id": 27,
+    "category": "Lunch",
+    "name": "Tomato Soup",
+    "priceCents": 650,
+    "available": true
+  },
+  {
+    "id": 28,
+    "category": "Lunch",
+    "name": "Pea Soup",
+    "priceCents": 700,
+    "available": true
+  },
+  {
+    "id": 29,
+    "category": "Lunch",
+    "name": "Meat Soup",
+    "priceCents": 790,
+    "available": true
+  },
+  {
+    "id": 30,
+    "category": "Lunch",
+    "name": "Fish Soup",
+    "priceCents": 850,
+    "available": true
+  },
+  {
+    "id": 31,
+    "category": "Lunch",
+    "name": "Mini Pizza",
+    "priceCents": 750,
+    "available": true
+  },
+  {
+    "id": 32,
+    "category": "Lunch",
+    "name": "Small Lasagne",
+    "priceCents": 850,
+    "available": true
+  },
+  {
+    "id": 33,
+    "category": "Meal",
+    "name": "Lasagne",
+    "priceCents": 1250,
+    "available": true
+  },
+  {
+    "id": 34,
+    "category": "Meal",
+    "name": "Steak",
+    "priceCents": 1890,
+    "available": true
+  },
+  {
+    "id": 35,
+    "category": "Meal",
+    "name": "Chicken Breast",
+    "priceCents": 1450,
+    "available": true
+  },
+  {
+    "id": 36,
+    "category": "Meal",
+    "name": "Salmon Plate",
+    "priceCents": 1590,
+    "available": true
+  },
+  {
+    "id": 37,
+    "category": "Meal",
+    "name": "Beef Burger",
+    "priceCents": 1350,
+    "available": true
+  },
+  {
+    "id": 38,
+    "category": "Meal",
+    "name": "Chicken Burger",
+    "priceCents": 1290,
+    "available": true
+  },
+  {
+    "id": 39,
+    "category": "Meal",
+    "name": "Veggie Burger",
+    "priceCents": 1190,
+    "available": true
+  },
+  {
+    "id": 40,
+    "category": "Meal",
+    "name": "Pepperoni Pizza",
+    "priceCents": 1290,
+    "available": true
+  },
+  {
+    "id": 41,
+    "category": "Meal",
+    "name": "Chicken Pizza",
+    "priceCents": 1290,
+    "available": true
+  },
+  {
+    "id": 42,
+    "category": "Meal",
+    "name": "Veggie Pizza",
+    "priceCents": 1190,
+    "available": true
+  },
+  {
+    "id": 43,
+    "category": "Meal",
+    "name": "Fish Chips",
+    "priceCents": 1350,
+    "available": true
+  },
+  {
+    "id": 44,
+    "category": "Meal",
+    "name": "Pork Cutlet",
+    "priceCents": 1390,
+    "available": true
+  },
+  {
+    "id": 45,
+    "category": "Meal",
+    "name": "Meatballs",
+    "priceCents": 1190,
+    "available": true
+  },
+  {
+    "id": 46,
+    "category": "Meal",
+    "name": "Sausage Plate",
+    "priceCents": 1090,
+    "available": true
+  },
+  {
+    "id": 47,
+    "category": "Meal",
+    "name": "Chicken Pasta",
+    "priceCents": 1250,
+    "available": true
+  },
+  {
+    "id": 48,
+    "category": "Meal",
+    "name": "Beef Pasta",
+    "priceCents": 1350,
+    "available": true
+  },
+  {
+    "id": 49,
+    "category": "Meal",
+    "name": "Curry Chicken",
+    "priceCents": 1290,
+    "available": true
+  },
+  {
+    "id": 50,
+    "category": "Meal",
+    "name": "Rice Bowl",
+    "priceCents": 1150,
+    "available": true
+  },
+  {
+    "id": 51,
+    "category": "Drinks",
+    "name": "Espresso",
+    "priceCents": 200,
+    "available": true
+  },
+  {
+    "id": 56,
+    "category": "Meal",
+    "name": "aaaaa",
+    "priceCents": 3400,
+    "available": true
+  }
+]
